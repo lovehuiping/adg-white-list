@@ -1,4 +1,5 @@
 @@||jd.com^
 @@||ihg.com^
 @@||meituan.net^
-@@||s.click.taobao.com^
+@@||taobao.com^
+@@||tb.cn^

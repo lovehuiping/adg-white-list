@@ -1,5 +1,10 @@
+@@||alipay.com^
+@@||wechatpay.cn^
 @@||jd.com^
+@@||jd.com^
+@@||jd.hk^
 @@||ihg.com^
 @@||meituan.net^
 @@||taobao.com^
 @@||tb.cn^
+@@||tmall.com^

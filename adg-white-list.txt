@@ -8,3 +8,8 @@
 @@||taobao.com^
 @@||tb.cn^
 @@||tmall.com^
+@@||gslb.qianxun.com
+@@||pay.cup.com.cn.wscvip.cn
+@@||pay.cup.com.cn^
+@@||jdpay.com^
+@@||360buyimg.com^

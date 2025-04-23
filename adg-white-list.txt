@@ -13,5 +13,3 @@
 @@||jdpay.com^
 @@||360buyimg.com^
 @@||jpush.cn^
-@@||jpush.io^
-@@||beizi.biz^

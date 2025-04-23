@@ -12,3 +12,4 @@
 @@||pay.cup.com.cn^
 @@||jdpay.com^
 @@||360buyimg.com^
+@@||jpush.cn^

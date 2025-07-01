@@ -13,3 +13,6 @@
 @@||jdpay.com^
 @@||360buyimg.com^
 @@||jpush.cn^
+@@||umeng.com^
+@@||umengcloud.com^
+@@||zdmimg.com^

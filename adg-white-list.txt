@@ -16,3 +16,4 @@
 @@||umeng.com^
 @@||umengcloud.com^
 @@||zdmimg.com^
+@@||yandex.ru^

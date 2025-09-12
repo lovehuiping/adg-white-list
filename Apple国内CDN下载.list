@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,iosapps.itunes.apple.com
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,alikunlun.net
+DOMAIN-SUFFIX,ksyuncdn.com
+DOMAIN-SUFFIX,ks-cdn.com
+DOMAIN-SUFFIX,akamai.net
+IP-CIDR,61.241.15.0/24,no-resolve
+IP-CIDR,58.144.231.0/24,no-resolve
+IP-CIDR,163.142.155.0/24,no-resolve
+IP-CIDR,157.255.232.86.0/24,no-resolve

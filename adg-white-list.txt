@@ -21,3 +21,4 @@
 @@||zdmimg.com^$important
 @@||*bank*^$important
 @@||*pay*^$important
+@@||*tradingview.com^$important

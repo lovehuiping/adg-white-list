@@ -6,3 +6,5 @@
 ||vip.stakeclick.com^
 ||365av.net^
 ||gamedelivery.cdn.bcebos.com^
+||in-addr.arpa^
+

@@ -25,4 +25,6 @@
 @@||*pay*^
 @@||*tradingview.com^
 @@||*jdjygold.com^
+@@||*sdk.open.talk.getui.com^
+@@||*sdk.open.talk.gepush.com^
 

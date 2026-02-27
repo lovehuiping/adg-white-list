@@ -7,6 +7,8 @@
 @@||jd.hk^
 @@||ihg.com^
 @@||meituan.net^
+@@||meituan.com^
+@@||meituan.cn^
 @@||taobao.com^
 @@||tb.cn^
 @@||tmall.com^

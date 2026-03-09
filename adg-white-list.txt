@@ -27,4 +27,5 @@
 @@||*jdjygold.com^
 @@||*sdk.open.talk.getui.com^
 @@||*sdk.open.talk.gepush.com^
-
+@@||*gepush.com^
+@@||*getui.com^

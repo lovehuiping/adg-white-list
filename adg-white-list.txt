@@ -29,3 +29,4 @@
 @@||*sdk.open.talk.gepush.com^
 @@||*gepush.com^
 @@||*getui.com^
+@@||*autohome.com.cn^

@@ -31,3 +31,4 @@
 @@||getui.com^
 @@||autohome.com.cn^
 @@||psbc.com^
+@@||mmstat.com^

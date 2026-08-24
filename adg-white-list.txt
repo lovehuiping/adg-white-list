@@ -9,6 +9,7 @@
 @@||meituan.net^
 @@||meituan.com^
 @@||meituan.cn^
+@@||dianping.com^
 @@||taobao.com^
 @@||tb.cn^
 @@||tmall.com^

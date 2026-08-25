@@ -1,3 +1,5 @@
+||*^$dnstype=HTTPS,dnsrewrite=NOERROR
+||*^$dnstype=ANY,dnsrewrite=NOERROR
 ||alarmenvious.com^
 ||tyserving.com^
 ||stripchat.com^
@@ -6,6 +8,3 @@
 ||vip.stakeclick.com^
 ||365av.net^
 ||gamedelivery.cdn.bcebos.com^
-#||*^$dnstype=HTTPS
-||*^$dnstype=ANY
-||*^$dnstype=HTTPS,dnsrewrite=NOERROR

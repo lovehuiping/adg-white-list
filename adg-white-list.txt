@@ -1,4 +1,4 @@
-@@||*^$dnstype=PTR
+#@@||*^$dnstype=PTR
 @@||alipay.com^
 @@||wechatpay.cn^
 @@||95516.com^

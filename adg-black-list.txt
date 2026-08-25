@@ -1,4 +1,4 @@
-||*^$dnstype=HTTPS
+#||*^$dnstype=HTTPS
 ||*^$dnstype=ANY
 ||alarmenvious.com^
 ||tyserving.com^

@@ -1,3 +1,5 @@
+||*^$dnstype=HTTPS
+||*^$dnstype=ANY
 ||alarmenvious.com^
 ||tyserving.com^
 ||stripchat.com^

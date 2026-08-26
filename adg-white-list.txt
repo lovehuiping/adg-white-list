@@ -1,4 +1,4 @@
-@@||*^$dnstype=PTR
+#@@||*^$dnstype=PTR
 @@||alipay.com^
 @@||wechatpay.cn^
 @@||95516.com^
@@ -34,3 +34,7 @@
 @@||autohome.com.cn^
 @@||psbc.com^
 @@||mmstat.com^
+@@||autonavi.com^
+@@||navi.com^
+@@||map.com^
+@@||ksyun.com^

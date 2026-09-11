@@ -2,6 +2,7 @@
 @@||alipay.com^
 @@||wechatpay.cn^
 @@||95516.com^
+@@||dns.weixin.qq.com.cn^
 @@||volceapplog.com
 @@||dualstack-restios.amap.com^
 @@||jd.com^

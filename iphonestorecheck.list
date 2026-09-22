@@ -12,13 +12,9 @@ DOMAIN,secure11.www.apple.com.cn
 DOMAIN,secure12.www.apple.com.cn
 DOMAIN,secure13.www.apple.com.cn
 DOMAIN,secure14.www.apple.com.cn
-DOMAIN,buy.apple.com
-DOMAIN,bag.apple.com
-DOMAIN,in-app-payments.apple.com
-DOMAIN,api.apple-cloudkit.com
-DOMAIN,init.itunes.apple.com
-DOMAIN,store.apple.com
-DOMAIN,appleid.apple.com
-DOMAIN,idmsa.apple.com
+uts-api.itunes.apple.com
+idmsa.apple.com.cn
 IP-CIDR,17.33.0.0/16,no-resolve
 IP-CIDR,17.8.0.0/16,no-resolve
+IP-CIDR,17.23.0.0/16,no-resolve
+IP-CIDR,2.16.0.0/16,no-resolve

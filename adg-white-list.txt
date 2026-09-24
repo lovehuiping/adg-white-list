@@ -40,6 +40,4 @@
 @@||map.com^
 @@||ksyun.com^
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^
-@@||vnet.cn^
-@@||voiparound.com^
 @@||hm.baidu.com

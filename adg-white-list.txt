@@ -12,6 +12,7 @@
 @@||meituan.com^
 @@||meituan.cn^
 @@||dianping.com^
+@@||51ping.com^
 @@||taobao.com^
 @@||tb.cn^
 @@||tmall.com^
@@ -32,6 +33,7 @@
 @@||sdk.open.talk.gepush.com^
 @@||gepush.com^
 @@||getui.com^
+@@||getui.net^
 @@||autohome.com.cn^
 @@||psbc.com^
 @@||mmstat.com^
@@ -40,4 +42,5 @@
 @@||map.com^
 @@||ksyun.com^
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^
-@@||hm.baidu.com
+@@||hm.baidu.com^
+

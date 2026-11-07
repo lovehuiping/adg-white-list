@@ -1,5 +1,5 @@
 ||*^$dnstype=HTTPS,dnsrewrite=NOERROR
-||*^$dnstype=ANY,dnsrewrite=NOERROR
+#||*^$dnstype=ANY,dnsrewrite=NOERROR
 ||alarmenvious.com^
 ||tyserving.com^
 ||stripchat.com^
